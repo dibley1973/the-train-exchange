@@ -3,6 +3,8 @@ This open-source project is to generate code for a website to allow model train 
 
 The intention is for **The Train Exchange** to be created by railway/railroad modellers for railway/railroad modellers.
 
+We are actively looking for [contributors](#contributers).
+
 ## Values
 The values of the Train Exchange are below
 
