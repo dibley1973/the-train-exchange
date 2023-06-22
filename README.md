@@ -28,7 +28,7 @@ No project succeeds without contributors. for this project to succeed we will ne
 
 Are you a railway modeller with any of these skills, and some spare time? If so then we may need your help.
 
-Feel free to raise issues but please review our [Definition Of Ready](././wiki/Definition-of-Ready) first.
+Feel free to raise issues but please review our [Definition Of Ready](../../wiki/Definition-of-Ready) first.
 
 ## Sponsorship
 We will need to host the website and the database and this costs money. We would be looking for model railway-related companies to provide funding for hosting, in return for targeted adverts on the site
