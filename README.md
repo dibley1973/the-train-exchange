@@ -37,7 +37,7 @@ The website will use the following technologies:
 * HTML
 * CSS
 * JavaScript
-* JS template binding (Vue.js) (Skills from React or angular would be transferrable)
+* JS template binding - React or Vue.js (Under dicussion)
 
 ## Back End
 
