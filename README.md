@@ -34,18 +34,4 @@ Feel free to raise issues but please review our [Definition Of Ready](../../wiki
 We will need to host the website and the database and this costs money. We would be looking for model railway-related companies to provide funding for hosting, in return for targeted adverts on the site
 
 ## Technology Stack
-The website will use the following technologies:
-
-### Front End
-
-* HTML
-* CSS
-* JavaScript
-* JS template binding - React or Vue.js (Under discussion)
-
-## Back End
-
-* ASP.Net Core (C#)
-* Web API
-* Domain Driven Design
-* SQL (Possibly SQL server)
+View the wiki page for the [Tech Stack](../../wiki/Tech-Stack)
