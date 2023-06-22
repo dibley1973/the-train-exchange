@@ -18,18 +18,20 @@ The values of the Train Exchange are below
 Born out of conversations with fellow model train enthusiasts, this idea is to provide an online mechanism for model train enthusiasts to buy, sell, swap, or part exchange models from each other, without incurring the increasing fees that eBay imposes. The site will not be responsible for the financial transactions, but it will instead provide a mechanism to allow model trains available for sale or exchange to be searched for and allow initial contact between prospective buyers and sellers to be made.
 
 ## Contributers
-No project succeeeds without contributers. for this project to succeed we will need contributers with the following skills:
+No project succeeds without contributors. for this project to succeed we will need contributors with the following skills:
 
-* Project managment
+* Project management
 * Business Analysis
 * Product Ownership
 * Software Engineering (See technology stack below for specific development skills we need)
 * Quality Assurance (Test plans, Manual Testing, user Acceptance Testing)
 
-Are you a railway modeller with any of these skills, and soem spare time? If so then we may need your help.
+Are you a railway modeller with any of these skills, and some spare time? If so then we may need your help.
+
+Feel free to raise issues but please review our [Definition Of Ready](wiki/Definition-of-Ready) first.
 
 ## Sponsorship
-We will need to host the web site and the database and this costs money. We would be looking for model railway related compained to provide funding for hosting, in return for targeted adverts on the site
+We will need to host the website and the database and this costs money. We would be looking for model railway related companies to provide funding for hosting, in return for targeted adverts on the site
 
 ## Technology Stack
 The website will use the following technologies:
@@ -39,7 +41,7 @@ The website will use the following technologies:
 * HTML
 * CSS
 * JavaScript
-* JS template binding - React or Vue.js (Under dicussion)
+* JS template binding - React or Vue.js (Under discussion)
 
 ## Back End
 
